@@ -19,5 +19,5 @@ According to a book on Quantopion, Successful Algorithmic Trading, I sorted out 
 # 6.Backtesting.当数据库中存有数据的时候就能够进行回测。
 -  runing backtest:
     `python run.py`  
-# 7.When backtesting is done, a 'equity.csv' will created.
+# 7.When backtesting is done, a file, 'equity.csv', will be created.
 -  当运行完成后，会产生一个'equity.csv'的回测文件。
